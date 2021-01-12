@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/cengiz?template=classic&base.community=0&stars=1&projects=1&posts=1&pagespeed=1&pagespeed.detailed=false&pagespeed.screenshot=false&posts.limit=4&posts.source=dev.to&projects.limit=4&stars.limit=4&config.timezone=Europe%2FIstanbul)
+![Metrics](https://metrics.lecoq.io/cengiz?template=classic&base.community=0&base.repositories=0&stars=1&stars.limit=4&config.timezone=Europe%2FIstanbul)
